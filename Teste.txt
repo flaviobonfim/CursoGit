@@ -1,3 +1,4 @@
 Curso de Git na Prática
 
 1- Antes da criação do diretório Git
+2- Arquivo alterado
