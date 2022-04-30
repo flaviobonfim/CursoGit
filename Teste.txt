@@ -3,3 +3,4 @@ Curso de Git na Prática
 1- Antes da criação do diretório Git
 2- Arquivo alterado
 3- Alteração feita pelo Git
+4- Novo teste pelo Git
